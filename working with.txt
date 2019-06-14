@@ -1,6 +1,10 @@
 
 
+<<<<<<< HEAD
+sid... git .... test
+=======
 aniketidsidsid... git .... test
+>>>>>>> 6472b59b4460262704e1be3164fc78194e59ba38
 
 
 
